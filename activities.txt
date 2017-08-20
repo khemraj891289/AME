@@ -1,0 +1,26 @@
+[
+      {
+            "name":"Happy Hour",
+            "description":"Happy hour is an AME initiative where students and professors get together to have snacks and do some informal interaction. It is a nice time wherein you shed the barrier and just walk around and interact with the professors.",
+            "path": "img/happy.jpg"
+      },
+      {
+            "name":"Workshops",
+            "description":"AME organizes workshops on various design and simulation softwares like Solidworks, Autodesk Inventor, COMSOL Multiphysics, Simulia Abaqus, MSC Adams, etc. from time to time so that students are adept with latest engineering toolkits already available to the student community.",
+            "path": "img/workshop.jpg"
+      },
+      {
+            "name":"Competitions",
+            "description":"There are various competitions organized by AME during the summers and also throughout the year.The competitions includes CAD Designing, Blog Writing and T-shirt designing competitions.This provides the common platform to show your technical skills to all your department which is judged by our departmental Professors.",
+            "path": "img/competition.jpg"
+      },
+      {
+            "name":"Cricket Encounter",
+            "description":"Cricket Encounter is an AME initiative in which the entire department gets together to compete in a cricket tournament.The active participation of Mechanical engineering students was biggest success of the tournament. This trend of departmental tournament has set up a new tradition and will surely become bigger next year.",
+            "path": "img/cricket.jpg"
+      },
+      {
+            "name":"ME Football League",
+            "description":"MFL is an AME initiative in which the entire department gets together to compete in a football league.This trend of departmental league match has set up a new tradition and will surely become bigger next year.",
+            "path": "img/football.jpg"
+      }]
